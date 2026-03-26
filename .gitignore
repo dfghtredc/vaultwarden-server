@@ -1,0 +1,6 @@
+.env
+data/
+backups/
+*.pem
+*.key
+docker-compose.yml
