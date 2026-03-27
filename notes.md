@@ -19,3 +19,14 @@
 - YAML indentation and file structure matter
 - It is better to keep secrets out of tracked files
 - Reverse proxying through Nginx is safer than exposing the container directly
+
+## VS Code Integration
+
+- Installed Remote SSH extension
+- Connected VS Code directly to Azure VM
+- Opened project folder remotely
+- Now able to edit files visually instead of using nano
+- Using VS Code terminal for Docker and Git commands
+
+Lesson:
+Using a proper IDE significantly improves speed and readability when working with infrastructure projects.
