@@ -9,7 +9,7 @@ services:
     environment:
       WEBSOCKET_ENABLED: "true"
       SIGNUPS_ALLOWED: "false"
-      ADMIN_TOKEN: "ebb6f4b1b45d73d1dc4477232fde0087df226d07cd5d7e8a5f278f57c0675691"  
+      ADMIN_TOKEN: "Key-Here"  
     volumes:
       - ./data:/data
 
